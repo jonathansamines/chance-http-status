@@ -1,6 +1,6 @@
 # chance-http-status
 
-[![Travis](https://img.shields.io/travis/jonathansamines/chance-http-status.svg?style=flat-square)](https://travis-ci.org/jonathansamines/chance-http-status) [![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/chance-http-status)
+[![Travis](https://img.shields.io/travis/jonathansamines/chance-http-status.svg?style=flat-square)](https://travis-ci.org/jonathansamines/chance-http-status) [![npm](https://img.shields.io/npm/v/chance-http-status.svg?style=flat-square)](https://www.npmjs.com/package/chance-http-status)
 
 
 A simple chance mixin to generate random http status information
