@@ -4,6 +4,7 @@
   "description": "",
   "main": "lib/index.js",
   "scripts": {
+    "pretest": "eslint .",
     "test": "tap test --coverage"
   },
   "repository": {
