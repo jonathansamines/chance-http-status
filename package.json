@@ -30,5 +30,8 @@
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-plugin-import": "^2.21.2",
     "tap": "^14.10.7"
+  },
+  "volta": {
+    "node": "10.21.0"
   }
 }
