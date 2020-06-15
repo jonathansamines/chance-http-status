@@ -1,7 +1,7 @@
 # chance-http-status
 
-[![Travis](https://img.shields.io/travis/jonathansamines/chance-http-status.svg?style=flat-square)](https://travis-ci.org/jonathansamines/chance-http-status) [![npm](https://img.shields.io/npm/v/chance-http-status.svg?style=flat-square)](https://www.npmjs.com/package/chance-http-status)
-
+[![npm](https://img.shields.io/npm/v/chance-http-status.svg?style=flat-square)](https://www.npmjs.com/package/chance-http-status)
+[![Build Status](https://github.com/jonathansamines/chance-http-status/workflows/Node.js%20CI/badge.svg)](https://github.com/jonathansamines/chance-http-status/actions)
 
 A simple chance mixin to generate random http status information
 

@@ -2,7 +2,7 @@
 
 const tap = require('tap');
 const Chance = require('chance');
-const httpStatus = require('./../');
+const httpStatus = require('..');
 
 const getChance = () => {
   const chance = new Chance();
